@@ -13,4 +13,4 @@ This project explores the complex process that occurs when you enter a URL in a 
 - Databases
 
 ## Blog Post
-Read the full article [here](<INSERT_BLOG_URL>).
+Read the full article [here](https://medium.com/@abrahamvidalcastillo2/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-7f09ffb6d98d).
